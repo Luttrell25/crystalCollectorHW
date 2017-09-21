@@ -1,0 +1,55 @@
+#jumbo {
+  color: white;
+}
+
+.jumbotron {
+  background-color: brown;
+}
+
+.instructions {
+  color: green;
+}
+
+.body-container {
+  background: wheat;
+  padding: 20px;
+}
+
+.winLoss {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgrey;
+  border-style: solid;
+  border-color: 15px;
+  border: auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+.number {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgrey;
+  text-align: center;
+  padding-top: 45px;
+  font-size: 40px;
+  border-style: solid;
+  border-color: 15px;
+  border: auto;
+}
+
+.crystal {
+  width: 80px;
+  height: 80px;
+  flex-wrap: wrap;
+  margin-left: 10%;
+}
+
+.crystal-container {
+  margin-left: auto;
+  margin-right: auto;
+}
